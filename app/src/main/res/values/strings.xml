@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseProject</string>
+    <string name="save">save</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="list">list</string>
+</resources>
